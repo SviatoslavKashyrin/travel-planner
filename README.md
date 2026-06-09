@@ -16,7 +16,7 @@ A CRUD RESTful API built with FastAPI and SQLite, demonstrating external API int
 ## How to Run the Application
 
 ### Using Docker (Recommended)
-1. Clone the repository: `git clone <your-github-link>`
+1. Clone the repository: `git clone https://github.com/SviatoslavKashyrin/travel-planner.git`
 2. Navigate to the project directory: `cd travel-planner`
 3. Build and start the container: `docker-compose up --build`
 4. The API will be available at `http://localhost:8000`
